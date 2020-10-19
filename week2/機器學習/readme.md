@@ -14,6 +14,11 @@
     Semi-supervised learning 半監督式學習
     Reinforcement learning 強化學習
 機器學習套件: scikit-learn vs Tensorflow
+
+[略]各個雲端平台所提供的機器學習:
+Google Cloud Platform(GCP)|Cloud Machine Learning
+Azure Machine Learning,......
+pyspark machine learning[Machine Learning Library (MLlib)]
 ```
 ```
 scikit-learn套件: https://scikit-learn.org/stable/
