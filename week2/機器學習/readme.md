@@ -16,7 +16,8 @@
 https://en.wikipedia.org/wiki/Machine_learning
 ```
 ```
-Machine learning (ML) is the study of computer algorithms that improve automatically through experience.[1][2] 
+Machine learning (ML) is the study of computer algorithms that 
+improve automatically through experience.[1][2] 
 
 It is seen as a subset of artificial intelligence. 
 
@@ -25,7 +26,8 @@ in order to make predictions or decisions without being explicitly programmed to
 
 Machine learning algorithms are used in a wide variety of applications, 
 such as email filtering and computer vision, 
-where it is difficult or infeasible to develop conventional algorithms to perform the needed tasks.
+where it is difficult or infeasible to develop conventional algorithms 
+to perform the needed tasks.
 ```
 ```
 Machine learning is closely related to computational statistics, 
