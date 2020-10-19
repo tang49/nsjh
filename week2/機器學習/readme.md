@@ -16,6 +16,18 @@
 機器學習套件: scikit-learn vs Tensorflow
 ```
 ```
+scikit-learn套件: https://scikit-learn.org/stable/
+
+Classification 分類
+Regression 回歸
+
+Clustering 叢集
+Dimensionality reduction 維度縮減
+
+Model selection 模型選擇
+Preprocessing 預先處理
+```
+```
 監督學習之簡單線性回歸分析實戰
 監督學習之KNN分類演算法實戰
 非監督學習之K-means演算法實戰
