@@ -16,7 +16,7 @@
 機器學習套件: scikit-learn vs Tensorflow
 
 [略]各個雲端平台所提供的機器學習:
-Google Cloud Platform(GCP)|Cloud Machine Learning
+Google Cloud Platform(GCP)|Cloud Machine Learning |AutoML, Cloud ML Engine, ML API 
 Azure Machine Learning,......
 pyspark machine learning[Machine Learning Library (MLlib)]
 ```
