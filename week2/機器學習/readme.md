@@ -7,6 +7,12 @@
 
 # 學習大綱
 ```
+機器學習 Machine learning (ML)
+機器學習 Machine learning (ML) 三大類型{有許多不同分類,但都會包括底下三類}
+    Supervised learning
+    Unsupervised learning
+    Semi-supervised learning
+    Reinforcement learning
 
 
 ```
@@ -49,7 +55,7 @@ and improve from experience without being explicitly programmed.
 Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves.
 ```
 
-# Alan Turing  | Turing test
+### Alan Turing  | Turing test
 ```
 "Can machines think?"  “機器能思考嗎？”
 ```
@@ -79,4 +85,29 @@ https://walkccc.github.io/blog/2018/11/25/Papers/turing/
 Alan Turing  (23 June 1912 – 7 June 1954)
 https://en.wikipedia.org/wiki/Alan_Turing
 ```
+# 機器學習 Machine learning (ML) 類型
+```
+https://en.wikipedia.org/wiki/Machine_learning
+```
+```
+機器學習 Machine learning (ML) 三大類型
+{有許多不同分類,但都會包括底下三類}
+    Supervised learning
+    Unsupervised learning
+    Reinforcement learning
+```
+```
+機器學習 Machine learning (ML) 四大類型
+    Supervised learning
+    Unsupervised learning
+    Semi-supervised learning
+    Reinforcement learning
+```
 
+```
+其他類型
+Self learning
+Feature learning
+Sparse dictionary learning
+......
+```
