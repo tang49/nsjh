@@ -22,6 +22,13 @@ https://www.slideshare.net/tw_dsconf/python-83977705
 ```
 https://github.com/MyDearGreatTeacher/uTaipei2019/tree/master/PPT
 ```
+# MOUNT GOOGLE DRIVE TO COlab
+```
+pwd ==>drive
+
+cd drive/My Drive/DS
+```
+
 # [1]NUMPY
 ```
 [1]numpy
