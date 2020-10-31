@@ -1,4 +1,8 @@
 # NUMPY實作練習
+```
+使用神經網路完成底下邏輯閘
+```
+![logicGates.gif](logicGates.gif)
 
 # AND Gate
 ```
