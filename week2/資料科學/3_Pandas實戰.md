@@ -145,6 +145,9 @@ uploaded = files.upload()
 ```
 ## 用 Python 抓取 Ubike 開放資料
 ```
+!wget https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json
+```
+```
 https://jerrynest.io/python-get-ubike-opendata/
 
 https://colab.research.google.com/drive/1jQprW8RIsA_SEFpBm6POF8DgZ1XZ9YH6#scrollTo=A8qmjnFmGyNv
