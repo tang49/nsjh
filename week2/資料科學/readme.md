@@ -24,7 +24,7 @@ https://github.com/MyDearGreatTeacher/uTaipei2019/tree/master/PPT
 ```
 # MOUNT GOOGLE DRIVE TO COlab
 ```
-pwd ==>drive
+pwd ==>/content/
 
 cd drive/My Drive/DS
 ```
