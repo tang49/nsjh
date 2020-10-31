@@ -19,6 +19,9 @@ Machine Learning and Security: Protecting Systems with Data and Algorithms by Cl
 [系列活動] 手把手打開Python資料分析大門
 https://www.slideshare.net/tw_dsconf/python-83977705
 ```
+```
+https://github.com/MyDearGreatTeacher/uTaipei2019/tree/master/PPT
+```
 # [1]NUMPY
 ```
 [1]numpy
