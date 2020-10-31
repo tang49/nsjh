@@ -457,6 +457,8 @@ result
    https://codertw.com/程式語言/462108/
 [2]NumPy 廣播(Broadcast)
    https://www.runoob.com/numpy/numpy-broadcast.html[2]
+
+[3]https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html
 ```
 ```
 import numpy as np
