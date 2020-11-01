@@ -3,7 +3,7 @@
 下載網址:
 https://www.apachefriends.org/zh_tw/download.html
 
-安裝C:\xampp101
+安裝到某目錄下 ==>C:\xampp101
 
 在C:\xampp101\htdocs建目錄tfjs
 
