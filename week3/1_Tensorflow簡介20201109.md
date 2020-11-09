@@ -20,11 +20,21 @@ https://yanwei-liu.medium.com/tensorflow-2-0-basic-concept-467a6fcbfaea
 https://zhuanlan.zhihu.com/p/113385350
 https://blog.csdn.net/weixin_42264234/article/details/103946960
 ```
+
+###
+```
+Towards Tensorflow 2.0系列
+https://ithelp.ithome.com.tw/articles/10215969
+```
 ```
 最全Tensorflow2.0 入门教程持续更新
 https://zhuanlan.zhihu.com/p/59507137
 
 https://github.com/czy36mengfei/tensorflow2_tutorials_chinese
+```
+```
+《30天吃掉那只TensorFlow2》
+https://github.com/lyhue1991/eat_tensorflow2_in_30_days
 ```
 ### Tensorflow 1.X[舊版2019.10]
 ```
