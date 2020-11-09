@@ -1,6 +1,25 @@
-#
+# StyleGAN
 ```
-
+A Style-Based Generator Architecture for Generative Adversarial Networks
+Tero Karras, Samuli Laine, Timo Aila
+https://arxiv.org/abs/1812.04948
+```
+```
+StyleGAN
+https://paperswithcode.com/method/stylegan
+```
+```
+论文阅读-人脸生成_StyleGAN
+https://zhuanlan.zhihu.com/p/62119852
+```
+```
+GAN系列：论文阅读——StyleGAN(A Style-based Generator Architecture for Generative Adversarial Networks)
+https://blog.csdn.net/lynlindasy/article/details/89555201
+```
+```
+StyleGAN-基于样式的生成对抗网络（论文阅读总结）
+东方木
+https://zhuanlan.zhihu.com/p/63230738
 ```
 
 ## Youtube
@@ -25,7 +44,11 @@ https://www.youtube.com/watch?v=9QuDh3W3lOY
 Analyzing and Improving the Image Quality of StyleGAN
 https://www.youtube.com/watch?v=jJDEQNMMwN0
 ```
-
+```
+Face editing with Generative Adversarial Networks
+觀看次數：185,281次
+https://www.youtube.com/watch?v=dCKbRCUyop8
+```
 ### Deepfake
 ```
 https://en.wikipedia.org/wiki/Deepfake
