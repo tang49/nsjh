@@ -25,7 +25,7 @@ AI WORLD: What AI CAN DO?(2020)
 ```
 
 # Tensorflow.js ==>瀏覽器也AI
-## 建置XAMPP 伺服器
+## 建置Windows|XAMPP 伺服器
 ```
 下載網址:
 https://www.apachefriends.org/zh_tw/download.html
@@ -38,6 +38,7 @@ https://www.apachefriends.org/zh_tw/download.html
 
 打開瀏覽器127.0.0.1:8080
 ```
+## 建置Kali Linux|XAMPP 伺服器
 ```
 How to Install XAMPP v7.3.2 in Kali Linux
 https://blackopscode.com/how-to-install-xampp-v7-3-2-in-kali-linux/
