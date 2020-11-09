@@ -1,7 +1,8 @@
 
-#
+# 動畫資料集: Danbooru2019
 ```
-
+Danbooru2019: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset
+https://www.gwern.net/Danbooru2019#danbooru2018
 ```
 
 ## 圖片風格轉換:請藝術家為你畫畫
