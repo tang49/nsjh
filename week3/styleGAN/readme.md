@@ -82,15 +82,29 @@ Analyzing and Improving the Image Quality of StyleGAN
 https://www.youtube.com/watch?v=jJDEQNMMwN0
 ```
 ```
-Face editing with Generative Adversarial Networks
-觀看次數：185,281次
-https://www.youtube.com/watch?v=dCKbRCUyop8
+AI Generates Anime Faces, And It's Getting Even Better [StyleGAN2]
+觀看次數：10,637次•2020年5月30日
+https://www.youtube.com/watch?v=812sdpwFgoM
 ```
+```
+Morphing Anime Girls Quiz
+觀看次數：7,795次•2020年5月30日
+https://www.youtube.com/watch?v=40FX9HtoUAE
+```
+
 ```
 StyleGAN2
 觀看次數：43,373次•2019年12月11日
 https://www.youtube.com/watch?v=c-NJtV9Jvp0&feature=youtu.be
 ```
+
+
+```
+Face editing with Generative Adversarial Networks
+觀看次數：185,281次
+https://www.youtube.com/watch?v=dCKbRCUyop8
+```
+
 ### Deepfake
 ```
 https://en.wikipedia.org/wiki/Deepfake
