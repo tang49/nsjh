@@ -33,6 +33,7 @@ https://zhuanlan.zhihu.com/p/63230738
 用英偉達StyleGAN生成老婆吧，有人生成了100多隻明日香 |有代碼
 2019-02-13
 原文網址：https://kknews.cc/comic/3a3ap4a.html
+
 ```
 ### ffhq-dataset
 ```
@@ -44,6 +45,10 @@ Analyzing and Improving the Image Quality of StyleGAN
 Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
 https://arxiv.org/abs/1912.04958
 https://github.com/NVlabs/stylegan2
+```
+```
+https://www.gwern.net/Faces#stylegan-2
+https://www.gwern.net/Faces#reversing-stylegan-to-control-modify-images
 ```
 ## StyleGAN2-ada
 ```
