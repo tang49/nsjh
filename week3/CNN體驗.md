@@ -1,9 +1,14 @@
-#
+# 體驗主題
+```
+圖片分類與CNN
+使用別人的Model[Google InceptionV3]進行圖片辨識
+transfer Learning 遷移學習
 ```
 
+## 使用別人的Model[Google InceptionV3]進行圖片辨識
 ```
-
-##
+!wget https://images.freeimages.com/images/large-previews/0cd/mango-1327290.jpg
+```
 ```
 # -*- coding: utf-8 -*-
 
@@ -11,13 +16,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 
+## 使用Google InceptionV3模型
 model = tf.keras.applications.InceptionV3(include_top=True, weights='imagenet')
 
+## 看看Google InceptionV3模型的結構
 model.summary()
 
 from tensorflow.keras.applications.inception_v3 import preprocess_input
 from tensorflow.keras.applications.inception_v3 import decode_predictions
 
+
+# 撰寫讀取圖片的函數
 def read_img(img_path, resize=(299,299)):
     img_string = tf.io.read_file(img_path)  # 讀取檔案
     img_decode = tf.image.decode_image(img_string)  # 將檔案以影像格式來解碼
@@ -26,15 +35,18 @@ def read_img(img_path, resize=(299,299)):
     img_decode = tf.expand_dims(img_decode, axis=0)
     return img_decode
 
-img = preprocess_input(img)  # 影像前處理
-preds = model.predict(img)  # 預測圖片
-print("Predicted:", decode_predictions(preds, top=3)[0])  # 輸出預測最高的三個類別
+# 
+img_path = 'mango-1327290.jpg' # 要辨識的圖片
 
-img_path = 'mango-1327290.jpg'
-img = read_img(img_path)  # 透過剛創建的函式讀取影像
-plt.imshow(tf.cast(img, tf.uint8)[0])  # 透過matplotlib顯示圖片需將影像轉為Integers
+img = read_img(img_path) #讀取圖片
+
+img = preprocess_input(img)  # 圖片前處理
+
+preds = model.predict(img)  # 預測圖片
+
+print("Predicted:", decode_predictions(preds, top=3)[0])  # 輸出預測最高的三個類別
 ```
-## transfer Learning
+## transfer Learning 遷移學習
 ```
 
 ```
