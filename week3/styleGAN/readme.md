@@ -28,12 +28,14 @@ StyleGAN-基于样式的生成对抗网络（论文阅读总结）
 东方木
 https://zhuanlan.zhihu.com/p/63230738
 ```
-
+# 用英偉達StyleGAN生成老婆吧
 ```
 用英偉達StyleGAN生成老婆吧，有人生成了100多隻明日香 |有代碼
 2019-02-13
 原文網址：https://kknews.cc/comic/3a3ap4a.html
-
+```
+```
+https://www.gwern.net/Faces
 ```
 ### ffhq-dataset
 ```
