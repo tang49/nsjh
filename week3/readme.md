@@ -24,7 +24,8 @@ styleGAN
 AI WORLD: What AI CAN DO?(2020)
 ```
 
-# 建置XAMPP 伺服器
+# Tensorflow.js瀏覽器也AI
+## 建置XAMPP 伺服器
 ```
 下載網址:
 https://www.apachefriends.org/zh_tw/download.html
