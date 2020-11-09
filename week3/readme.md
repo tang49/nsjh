@@ -1,3 +1,26 @@
+
+# Deep Learning
+```
+AI 發展
+neural network:Form precetion to MLP to DEEP
+
+CNN: Image 2 Video
+   圖片分類
+   圖片產生==> Video
+   圖片翻譯image-to-Image 
+RNN:
+   文章分類
+   文字產生
+   機器翻譯
+```
+```
+GAN
+
+styleGAN
+
+AI WORLD: What AI CAN DO?(2020)
+```
+
 # 建置XAMPP 伺服器
 ```
 下載網址:
