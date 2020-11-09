@@ -22,3 +22,8 @@ https://shinya7y.github.io/playground/shadesketch/
 
 https://qyzdao.github.io/ShadeSketch/
 ```
+### 
+```
+http://kanotype.iptime.org:8003/deepdanbooru/
+
+```
