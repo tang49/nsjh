@@ -21,7 +21,12 @@ StyleGAN-基于样式的生成对抗网络（论文阅读总结）
 东方木
 https://zhuanlan.zhihu.com/p/63230738
 ```
-
+## StyleGAN2
+```
+Analyzing and Improving the Image Quality of StyleGAN
+Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+https://arxiv.org/abs/1912.04958
+```
 ## Youtube
 ### StyleGAN
 ```
