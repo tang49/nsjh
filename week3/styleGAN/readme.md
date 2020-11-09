@@ -3,6 +3,8 @@
 A Style-Based Generator Architecture for Generative Adversarial Networks
 Tero Karras, Samuli Laine, Timo Aila
 https://arxiv.org/abs/1812.04948
+
+https://github.com/NVlabs/stylegan
 ```
 ```
 StyleGAN
@@ -21,11 +23,23 @@ StyleGAN-基于样式的生成对抗网络（论文阅读总结）
 东方木
 https://zhuanlan.zhihu.com/p/63230738
 ```
+### ffhq-dataset
+```
+https://github.com/NVlabs/ffhq-dataset
+```
 ## StyleGAN2
 ```
 Analyzing and Improving the Image Quality of StyleGAN
 Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
 https://arxiv.org/abs/1912.04958
+https://github.com/NVlabs/stylegan2
+```
+## StyleGAN2-ada
+```
+Training Generative Adversarial Networks with Limited Data
+Tero Karras, Miika Aittala, Janne Hellsten, Samuli Laine, Jaakko Lehtinen, Timo Aila
+https://arxiv.org/abs/2006.06676
+https://github.com/NVlabs/stylegan2-ada
 ```
 ## Youtube
 ### StyleGAN
@@ -53,6 +67,11 @@ https://www.youtube.com/watch?v=jJDEQNMMwN0
 Face editing with Generative Adversarial Networks
 觀看次數：185,281次
 https://www.youtube.com/watch?v=dCKbRCUyop8
+```
+```
+StyleGAN2
+觀看次數：43,373次•2019年12月11日
+https://www.youtube.com/watch?v=c-NJtV9Jvp0&feature=youtu.be
 ```
 ### Deepfake
 ```
