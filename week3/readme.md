@@ -38,3 +38,15 @@ https://www.apachefriends.org/zh_tw/download.html
 
 打開瀏覽器127.0.0.1:8080
 ```
+## 學習 tensorflow.js
+```
+推薦教材
+JavaScript 網頁設計與 TensorFlow.js 人工智慧應用教本
+陳會安  碁峰資訊  2020-09-24
+https://www.tenlong.com.tw/products/9789865026103?list_name=srh
+
+第五篇.TensorFlow.js人工智慧應用
+第14章： TensorFlow.js與機器學習基礎 – 認識機器學習、tensor操作和視覺化
+第15章： 機器學習的迴歸、分類與CNN圖片識別
+第16章： 人工智慧應用：TensorFlow.js預訓練模型
+```
