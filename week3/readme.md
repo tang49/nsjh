@@ -38,6 +38,10 @@ https://www.apachefriends.org/zh_tw/download.html
 
 打開瀏覽器127.0.0.1:8080
 ```
+```
+How to Install XAMPP v7.3.2 in Kali Linux
+https://blackopscode.com/how-to-install-xampp-v7-3-2-in-kali-linux/
+```
 ## 學習 tensorflow.js
 ```
 推薦教材
@@ -49,4 +53,12 @@ https://www.tenlong.com.tw/products/9789865026103?list_name=srh
 第14章： TensorFlow.js與機器學習基礎 – 認識機器學習、tensor操作和視覺化
 第15章： 機器學習的迴歸、分類與CNN圖片識別
 第16章： 人工智慧應用：TensorFlow.js預訓練模型
+```
+```
+Deep Learning with JavaScript 
+Neural networks in TensorFlow.js
+Shanqing Cai, Stanley Bileschi, Eric D. Nielsen with Francois Chollet
+
+January 2020  ISBN 9781617296178  560 pages  
+https://www.manning.com/books/deep-learning-with-javascript
 ```
