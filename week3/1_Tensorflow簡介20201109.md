@@ -11,7 +11,14 @@ https://www.youtube.com/watch?v=qLjw_EtqmCs
 ```
 ### Tensorflow 2.X簡介
 ```
+TensorFlow 2.0學習筆記(3)：基本介紹
+https://yanwei-liu.medium.com/tensorflow-2-0-basic-concept-467a6fcbfaea
+```
+```
+使用TensorFlow 2.0創建Keras模型的3種方法
 
+https://zhuanlan.zhihu.com/p/113385350
+https://blog.csdn.net/weixin_42264234/article/details/103946960
 ```
 ### Tensorflow 1.X[舊版2019.10]
 ```
