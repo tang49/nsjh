@@ -30,3 +30,9 @@ LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects (2020)
 觀看次數：544,013次•2020年3月25日
 https://www.youtube.com/watch?v=WQeoO7MI0Bs
 ```
+#
+```
+微軟竟給 Windows 量身打造了一套生產力小工具？看在這誠意的份上我只好安裝了 #PowerToys
+觀看次數：69,509次•2020年11月6日
+https://www.youtube.com/watch?v=EAoIGJjWdbA
+```
