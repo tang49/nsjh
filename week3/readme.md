@@ -8,6 +8,9 @@ CNN: Image 2 Video
    圖片分類
    圖片產生==> Video
    圖片翻譯image-to-Image 
+Transfer Learning 遷移學習
+   使用別人的模型進行 分類
+   遷移學習
 RNN:
    文章分類
    文字產生
