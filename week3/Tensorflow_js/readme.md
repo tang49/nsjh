@@ -30,6 +30,8 @@ https://medium.com/javascript-in-plain-english/top-12-javascript-machine-learnin
 ## Deep Learning with JavaScript
 ```
 https://www.manning.com/books/deep-learning-with-javascript
+
+https://codepen.io/tfjs-book/collections/
 ```
 ```
 安裝node.js +npm
