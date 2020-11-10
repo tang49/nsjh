@@ -20,15 +20,35 @@ https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=zh-tw
 https://github.com/tensorflow/tfjs-examples
 ```
 
-
-
-
-##
+#
+```
+Top 12 JavaScript Machine Learning Libraries for 2020
+https://medium.com/javascript-in-plain-english/top-12-javascript-machine-learning-libraries-for-2020-8bec30ecfa58
 ```
 
 
+## Deep Learning with JavaScript
 ```
-
+https://www.manning.com/books/deep-learning-with-javascript
+```
+```
+安裝node.js +npm
+安裝yarn
+安裝git
+  https://git-scm.com/download/win
+  https://git-scm.com/book/en/v2
+  http://windows.github.com
+```
+```
+tensorflow/tfjs-examples
+https://github.com/tensorflow/tfjs-examples
+```
+```
+git clone https://github.com/tensorflow/tfjs-examples.git
+cd tfjs-examples/website-phishing
+yarn
+yarn watch
+```
 
 ##
 ```
