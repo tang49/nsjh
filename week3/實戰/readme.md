@@ -1,4 +1,12 @@
-
+#
+```
+1.圖片風格轉換
+   good圖片風格轉換_20201102
+2.卡通化
+   ok將圖片或影片網址轉換成卡通風格.py
+3.stylegan2人像生成
+  stylegan2人像生成.py
+```
 # 動畫資料集: Danbooru2019
 ```
 Danbooru2019: A Large-Scale Crowdsourced and Tagged Anime Illustration Dataset
