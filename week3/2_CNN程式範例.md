@@ -1,5 +1,6 @@
 # 體驗主題
 ```
+KERAS
 1.圖片分類==>使用MLP
 2.圖片分類==>使用CNN
 3.使用別人的Model[Google InceptionV3]進行圖片辨識
@@ -27,22 +28,11 @@ model = tf.keras.models.Sequential([
 ])
 ```
 ```
-predictions = model(x_train[:1]).numpy()
-predictions
-```
-```
-# tf.nn.softmax function converts these logits to "probabilities" for each class:
-
-tf.nn.softmax(predictions).numpy()
-```
-```
 #The losses.SparseCategoricalCrossentropy loss takes a vector of logits and a True index and returns a scalar loss for each example
 
 loss_fn = tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True)
 ```
-```
-loss_fn(y_train[:1], predictions).numpy()
-```
+
 ```
 model.compile(optimizer='adam',
               loss=loss_fn,
