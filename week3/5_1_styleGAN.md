@@ -104,7 +104,40 @@ Face editing with Generative Adversarial Networks
 觀看次數：185,281次
 https://www.youtube.com/watch?v=dCKbRCUyop8
 ```
+# CartoonGAN (CVPR 2018)
+```
+https://github.com/mnicnc404/CartoonGan-tensorflow
 
+https://paperswithcode.com/paper/cartoongan-generative-adversarial-networks
+```
+```
+用 CartoonGAN 及 TensorFlow 2 生成新海誠與宮崎駿動畫
+https://leemeng.tw/generate-anime-using-cartoongan-and-tensorflow2.html
+```
+```
+https://ithelp.ithome.com.tw/articles/10227081
+```
+# AnimeGAN(2020)
+```
+AnimeGAN: A Novel Lightweight GAN for Photo Animation
+Jie ChenGang LiuEmail authorXin Chen
+First Online: 26 May 2020
+https://link.springer.com/chapter/10.1007/978-981-15-5577-0_18
+```
+```
+https://github.com/TachibanaYoshino/AnimeGAN
+
+https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf
+```
+```
+AnimeGANv2释出了，比AnimeGAN生成器模型更小，视觉效果更佳，更容易训练
+https://zhuanlan.zhihu.com/p/174202834
+```
+```
+AnimeGAN.js: Photo Animation for Everyone
+https://animegan.js.org/
+https://github.com/TonyLianLong/AnimeGAN.js
+```
 ### Deepfake
 ```
 https://en.wikipedia.org/wiki/Deepfake
@@ -116,4 +149,17 @@ actress Amy Adams in the original (left) is modified to have the face of actor N
 The Creation and Detection of Deepfakes: A Survey
 Yisroel Mirsky, Wenke Lee
 https://arxiv.org/abs/2004.11138
+```
+```
+当我们在谈论 AI 换脸：DeepFakes
+https://zhuanlan.zhihu.com/p/55403378
+```
+```
+DeepFaceLab2.0 ：超详细入门教程!
+https://zhuanlan.zhihu.com/p/104956338
+https://github.com/iperov/DeepFaceLab
+
+https://zhuanlan.zhihu.com/p/148785498
+
+https://zhuanlan.zhihu.com/p/70914019
 ```
