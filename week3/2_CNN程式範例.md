@@ -55,10 +55,11 @@ model.compile(optimizer='adam',
 ```
 model.fit(x_train, y_train, epochs=5)
 ```
-### 使用evaluate()進行預測
+### 使用evaluate()進行準確度計算
 ```
 model.evaluate(x_test,  y_test, verbose=2)
 ```
+### 使用predict()進行預測
 
 # 2.圖片分類==>使用CNN
 ```
