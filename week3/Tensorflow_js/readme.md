@@ -1,10 +1,4 @@
-#
-```
-
-
-```
-
-## Tensorflow.js
+# Tensorflow.js
 ```
 TensorFlow.js 是可用 JavaScript 開發機器學習的程式庫
 以 JavaScript 開發機器學習模型，並直接在瀏覽器中或 Node.js 中使用機器學習。
@@ -50,17 +44,4 @@ git clone https://github.com/tensorflow/tfjs-examples.git
 cd tfjs-examples/website-phishing
 yarn
 yarn watch
-```
-
-##
-```
-
-
-```
-
-
-##
-```
-
-
 ```
