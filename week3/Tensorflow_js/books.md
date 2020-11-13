@@ -1,7 +1,14 @@
-#
+## AIBrowser瀏覽器的人工智慧
 ```
+人工智慧的機器學習應用:使用TensorFlow.js在Web應用程式部署機器學習模型。
 
-
+[1]使用Python在Google Colab雲端服務訓練MINIST模型的手寫數字辨識，
+[2]然後在客戶端TensorFlow.js載入此模型來進行預測
+```
+# 推薦教科書
+```
+JavaScript 網頁設計與 TensorFlow.js 人工智慧應用教本
+陳會安  碁峰資訊 2020-09-24
 ```
 
 # 迴歸regression
@@ -242,30 +249,6 @@ visualization();
 ```
 
 
-##
-```
-
-
-
-```
-
-
-##
-```
-
-
-
-```
-
-
-
-## AIBrowser瀏覽器的人工智慧
-```
-人工智慧的機器學習應用:使用TensorFlow.js在Web應用程式部署機器學習模型。
-
-[1]使用Python在Google Colab雲端服務訓練MINIST模型的手寫數字辨識，
-[2]然後在客戶端TensorFlow.js載入此模型來進行預測
-```
 
 
 ##
@@ -396,15 +379,4 @@ function clearCanvas() {
 </body>
 
 </html>
-
-
 ```
-
-
-##
-```
-
-
-
-```
-
