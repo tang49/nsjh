@@ -162,11 +162,11 @@ print(issubclass(Airplane, Car))  # Fasle
 要在子類別中執行父類別的方法(Method)時，可以使用super()內建方法來達成
 ```
 ```
-# 交通工具(基底類別Base class )
+# 交通工具(父類別  基底類別Base class )
 class Transportation:
     # 駕駛方法
     def drive(self):
-        print("基底類別drive method is called.")
+        print("父類別 drive method is called.")
         
 # 汽車子類別
 class Car(Transportation):
@@ -178,7 +178,16 @@ class Car(Transportation):
 mazda = Car()
 mazda.drive()
 ```
-
+```
+mazda.drive()執行:
+   先執行super().drive()==>先叫聲爸爸好
+   然後再執行 print("Sub class drive method is called.")==>兒子更優秀
+```
+```
+overwrite:複寫
+父類別的方法被子類別複寫
+兒子很爭氣走出自己的風格
+```
 ### 多層繼承(Multi-Level Inheritance)
 ```
 # 動物類別
